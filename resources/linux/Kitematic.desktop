@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Kitematic (Alpha)
+Comment=Simple Docker Container management for Mac OS X, Windows and Linux.
+GenericName=Kitematic
+Exec=Kitematic %U
+Icon=Kitematic
+Type=Application
+StartupNotify=true
+Categories=Utilities;
